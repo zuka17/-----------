@@ -12,12 +12,7 @@ body {
     border-top-right-radius: 20px ;
     border: 1px solid #ccc ;
 }
-.mini-box{
-    border-bottom: 1px solid rgba(0, 0, 0, 0.467);
-    padding-top: 6px ;
-    padding-left: 20px;
-    padding-bottom:  6px;
-}
+
 .flex{
     display:flex
 
@@ -61,13 +56,7 @@ body {
      padding-bottom: 4px;
  }
 
- .ABOUT{
-   color:  white;
-    background-color: black;
-    width: 60px;
-        border-radius: 20px;
-        transform: rotate(340deg);
- }
+ 
  .fb{
     margin-top: 50px;
     margin-bottom: 50px;
@@ -84,4 +73,36 @@ flex: 1;
      
      text-align: center;
      padding: 10px;
+}
+
+.hf{
+    display: flex
+    
+}
+
+.hhf{
+    flex: 1;
+    margin-top: 60px;
+     text-align: center;
+     padding: 10px;
+}
+.s{
+    width: 10px;
+    
+}
+
+.ABOUT{
+    color:  white;
+     background-color: black;
+     width: 60px;
+         border-radius: 20px;
+         transform: rotate(340deg);
+  }
+
+
+  .mini-box{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.467);
+    padding-top: 6px ;
+    padding-left: 20px;
+    padding-bottom:  6px;
 }
