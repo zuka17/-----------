@@ -68,10 +68,20 @@ body {
         border-radius: 20px;
         transform: rotate(340deg);
  }
- .fp{
+ .fb{
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 100px;
     margin-right: 100px;
     
  }
+.st{
+    display: flex
+    
+}
+.fp {
+flex: 1;
+     
+     text-align: center;
+     padding: 10px;
+}
