@@ -36,7 +36,7 @@ body {
     width: 10px;
     height: 10px;
     border-radius: 100% ;
-
+    
 }
  .abc{
     display: flex
@@ -84,9 +84,10 @@ flex: 1;
     flex: 1;
     margin-top: 60px;
      text-align: center;
-    
+     padding: 10px;
+     
 }
-.s{
+.ss{
     width: 10px;
     
 }
